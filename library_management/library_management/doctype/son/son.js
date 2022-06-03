@@ -1,0 +1,8 @@
+// Copyright (c) 2022, Faris Ansari and contributors
+// For license information, please see license.txt
+
+frappe.ui.form.on('Son', {
+	// refresh: function(frm) {
+
+	// }
+});
